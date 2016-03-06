@@ -1,1 +1,1 @@
-# game_mins
+A very simple "Find the mines" game in Android
